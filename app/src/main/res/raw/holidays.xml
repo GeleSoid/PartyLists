@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<holidays>
+    <holiday>
+        <name>День Защитника Отечества</name>
+        <date>2024-02-23</date>
+        <description>Праздник, посвященный защитникам Родины.</description>
+    </holiday>
+    <holiday>
+        <name>Международный день космонавтики</name>
+        <date>2024-04-12</date>
+        <description>День памяти первого полета человека в космос.</description>
+    </holiday>
+    <holiday>
+        <name>День Российской науки</name>
+        <date>2024-02-08</date>
+        <description>Праздник, отмечающий достижения в области науки и технологий в России.</description>
+    </holiday>
+    <holiday>
+        <name>День государственного флага</name>
+        <date>2024-08-22</date>
+        <description>Праздник, посвященный государственному флагу России.</description>
+    </holiday>
+    <holiday>
+        <name>День России</name>
+        <date>2024-06-12</date>
+        <description>Государственный праздник, посвященный Российской Федерации.</description>
+    </holiday>
+    <holiday>
+        <name>День народного единства</name>
+        <date>2024-11-04</date>
+        <description>Праздник, символизирующий единство народа России.</description>
+    </holiday>
+</holidays>
